@@ -1,0 +1,15 @@
+{
+    "name": "yevhen/test",
+    "autoload": {
+        "psr-4": {
+            "Yevhen\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mazurevgenii",
+            "email": "mazurevgenii@gmail.com"
+        }
+    ],
+    "require": {}
+}
